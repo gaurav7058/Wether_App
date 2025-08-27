@@ -1,12 +1,41 @@
-# React + Vite
+# Project Recordings
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. **Weather App**  
+   🎥 [Watch Recording](https://drive.google.com/file/d/1igbIpqInfHvviJ-to8YV2Pjx1rY-rq1G/view?usp=sharing)
 
-Currently, two official plugins are available:
+2. **Book Finder App**  
+   🎥 [Watch Recording](https://drive.google.com/file/d/1w_UWuJ18X6q4oDBqD8pCH1nYrLHd2o1x/view?usp=sharing)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. **Recipe Ideas App**  
+   🎥 [Watch Recording](https://drive.google.com/file/d/1K-yuJix78nIemxF4T5RDZafH7tX2USNO/view?usp=sharing)
 
-## Expanding the ESLint configuration
+4. **Earthquake Visualizer**  
+   🎥 [Watch Recording](https://drive.google.com/file/d/1MOn1vNMbxEJIHUTork6EmuqUd_13OIO3/view?usp=sharing)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Project Deploy Link
+
+1. **Weather App**  
+   🎥 [Link](https://wether-app-iebp.onrender.com/)
+
+2. **Book Finder App**  
+   🎥 [Link](https://book-finder-j499.onrender.com/)
+
+3. **Recipe Ideas App**  
+   🎥 [Link](https://recipe-ideas-c0cr.onrender.com/)
+
+4. **Earthquake Visualizer**  
+   🎥 [Link](https://earthquake-visualizer-2h6v.onrender.com/)
+
+
+# How to run project
+
+**pnpm install**
+
+**pnpm run dev**
+
+# chatgpt reference
+🎥 [Link](https://chatgpt.com/c/68ad6728-d00c-832e-a5cb-4817c2d175e8)
+🎥 [Link](https://chatgpt.com/c/68ad87f3-72c0-8330-aed3-089a2b71e31a)
+🎥 [Link](https://chatgpt.com/c/68add53c-9450-8330-aa42-b655dd4c8505)
+
